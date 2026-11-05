@@ -1,4 +1,4 @@
-package multithreading.synchronization.createSynchronizedBlock;
+package multithreading.synchronization.A.createSynchronizedBlock;
 
 
 /*

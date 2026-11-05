@@ -1,4 +1,4 @@
-package multithreading.synchronization.synchronizedObjectAccess;
+package multithreading.synchronization.B.synchronizedObjectAccess;
 
 /*
 Assume Call me is class in a library/external dependency.
