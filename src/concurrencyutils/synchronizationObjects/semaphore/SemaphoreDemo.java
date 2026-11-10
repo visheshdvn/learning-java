@@ -1,4 +1,4 @@
-package concurrencyutils.semaphore;
+package concurrencyutils.synchronizationObjects.semaphore;
 
 import java.util.concurrent.Semaphore;
 
